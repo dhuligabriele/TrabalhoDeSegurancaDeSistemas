@@ -1,0 +1,18 @@
+
+body{
+ background-color:gray ;   
+}
+
+.cinza {
+
+    padding: 25px;
+    margin: 25px;
+}
+
+div .row{
+    background-color: #98F5FF;
+    border-radius: 25px ;
+    padding: 25px;
+    margin: 25px;
+}
+
